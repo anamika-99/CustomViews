@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomViewButton">
+        <attr name="buttonColor" format="boolean" />
+        <attr name="buttonColorSelected" format="boolean" />
+        <attr name="buttonName" format="string" />
+<attr
+    name="btext" format="boolean"/>
+    </declare-styleable>
+</resources>
